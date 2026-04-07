@@ -13,11 +13,10 @@ Based on the course submission requirements, the repository is structured as fol
 
 ```text
 ├── data/
-│   └── mental_health_diagnosis_treatment.csv   # The cleaned clinical dataset
+│   └── raw.csv   # The cleaned clinical dataset
 ├── presentation/
-│   └── GroupNAME_TCX3212_Presentation.pdf      # Exported slides for the 10-min pitch
+│   └── Predictive Analytics for Mental Health Outcomes.pdf      # Exported slides for the 10-min pitch
 ├── Mental_Health_Prediction_CRISPDM.ipynb      # Main Jupyter Notebook with full source code
-├── GroupNAME_TCX3212_Report.pdf                # Maximum 10-page technical report
 └── README.md                                   # Project documentation
 ```
 
